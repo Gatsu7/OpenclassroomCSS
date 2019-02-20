@@ -1,2 +1,0 @@
-# OpenclassroomCSS
-Created with CodeSandbox
